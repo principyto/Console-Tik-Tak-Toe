@@ -1,0 +1,14 @@
+C:\Users\danie\source\repos\Console Tik Tak Toe\Console Tik Tak Toe\bin\Debug\net6.0\Console Tik Tak Toe.exe
+C:\Users\danie\source\repos\Console Tik Tak Toe\Console Tik Tak Toe\bin\Debug\net6.0\Console Tik Tak Toe.deps.json
+C:\Users\danie\source\repos\Console Tik Tak Toe\Console Tik Tak Toe\bin\Debug\net6.0\Console Tik Tak Toe.runtimeconfig.json
+C:\Users\danie\source\repos\Console Tik Tak Toe\Console Tik Tak Toe\bin\Debug\net6.0\Console Tik Tak Toe.dll
+C:\Users\danie\source\repos\Console Tik Tak Toe\Console Tik Tak Toe\bin\Debug\net6.0\Console Tik Tak Toe.pdb
+C:\Users\danie\source\repos\Console Tik Tak Toe\Console Tik Tak Toe\obj\Debug\net6.0\Console Tik Tak Toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\Console Tik Tak Toe\Console Tik Tak Toe\obj\Debug\net6.0\Console Tik Tak Toe.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Console Tik Tak Toe\Console Tik Tak Toe\obj\Debug\net6.0\Console Tik Tak Toe.AssemblyInfo.cs
+C:\Users\danie\source\repos\Console Tik Tak Toe\Console Tik Tak Toe\obj\Debug\net6.0\Console Tik Tak Toe.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Console Tik Tak Toe\Console Tik Tak Toe\obj\Debug\net6.0\Console Tik Tak Toe.dll
+C:\Users\danie\source\repos\Console Tik Tak Toe\Console Tik Tak Toe\obj\Debug\net6.0\refint\Console Tik Tak Toe.dll
+C:\Users\danie\source\repos\Console Tik Tak Toe\Console Tik Tak Toe\obj\Debug\net6.0\Console Tik Tak Toe.pdb
+C:\Users\danie\source\repos\Console Tik Tak Toe\Console Tik Tak Toe\obj\Debug\net6.0\Console Tik Tak Toe.genruntimeconfig.cache
+C:\Users\danie\source\repos\Console Tik Tak Toe\Console Tik Tak Toe\obj\Debug\net6.0\ref\Console Tik Tak Toe.dll

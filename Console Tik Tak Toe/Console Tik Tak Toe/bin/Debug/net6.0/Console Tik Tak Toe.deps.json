@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Console Tik Tak Toe/1.0.0": {
+        "runtime": {
+          "Console Tik Tak Toe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Console Tik Tak Toe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
